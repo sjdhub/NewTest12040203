@@ -1,0 +1,11 @@
+ Volume in drive C is Acer
+ Volume Serial Number is B2A9-105A
+
+ Directory of C:\SJD_Files\Training\GIT_Training
+
+11/28/2023  01:56 PM    <DIR>          .
+11/28/2023  01:27 PM    <DIR>          ..
+11/28/2023  01:55 PM    <DIR>          .git
+11/28/2023  01:56 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  410,152,685,568 bytes free
